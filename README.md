@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
   <a href="https://github.com/NolanMarcondes">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=nolanmarcondes&show_icons=true">
-  <img height="180cm" src="gutgyv-readne-stats.vercel.app/api/top-lang/?username=nolanmarcondes&layout=compact&langs_count=16&theme=dracula"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMarcondes)](https://github.com/NolanMarcondes/github-readme-stats)
 </div>
 
   ##
