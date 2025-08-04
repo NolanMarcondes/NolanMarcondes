@@ -2,6 +2,7 @@
 
 <div style="display: inline_block"><br>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=nolanmarcondes&show_icons=true">
+<img height="180cm" src="gutgyv-readne-stats.vercel.app/api/top-lang/?username=nolanmarcondes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
   ##
