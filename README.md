@@ -2,8 +2,8 @@
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/NolanMarcondes">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nolanmarcondes&show_icons=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMarcondes">
+  <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nolanmarcondes&show_icons=true">
+  <img alt="Top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMarcondes">
 </div>
 
   ##
