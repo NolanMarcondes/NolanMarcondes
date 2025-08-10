@@ -1,27 +1,42 @@
-### Hello World, I'm Nolan, be very welcome
+# 👋 Olá, eu sou Nolan Marcondes!
 
-<div style="display: inline_block"><br>
-  <a href="https://github.com/NolanMarcondes">
-  <img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nolanmarcondes&show_icons=true">
-  <img alt="Top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMarcondes">
+💻 Estudante e entusiasta de programação, atualmente focado em **Python** e desenvolvimento web.  
+📚 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.  
+🎯 Objetivo: Evoluir como desenvolvedor e criar projetos cada vez mais desafiadores.
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NolanMarcondes&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NolanMarcondes&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-  ##
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nolan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nolan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nolan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nolan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nolan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/nolan.marcondes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:nolanmarcondes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nolan-marcondes-b3269730a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 🚀 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+- [🐍 Exercícios de Python – Curso em Vídeo](https://github.com/NolanMarcondes/Python-Mundo-1)  
+- [🌆 Site sobre Barcelona](https://github.com/NolanMarcondes/Site-Barcelona)
+
+---
+
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+✨ *"O aprendizado é um processo contínuo, e cada linha de código é um passo à frente."*
